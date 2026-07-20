@@ -1,21 +1,23 @@
-## 👋 Hi, I'm George Gabriel
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/dots.svg?title=👋%20Hi%2C%20I'm%20George%20Gabriel&subtitle=Data%20Engineer%20%7C%20Building%20modern%20data%20platforms&size=banner&mode=dark">
+  <img alt="George Gabriel banner" src="https://shieldcn.dev/header/dots.svg?title=George%20Gabriel&subtitle=Data%20Engineer%20%7C%20Building%20modern%20data%20pipelines&size=banner&mode=light">
+</picture>
 
-*Data Engineer, always building, always learning.*
-
-📊 Building data pipelines with **Python, Spark & Databricks**.  
-🤖 Currently exploring **AI Data Engineering** and **Gen AI**, from ETL to LLMs.  
-🎓 Graduated in Systems Analysis and Development.  
+🚩 Based in Brazil  
+⚙️ Building data pipelines with **Python, Spark & Databricks**  
+🤖 Exploring **GenAI**, **LLM applications**, and **AI Data Engineering**  
 
 ### 🛠️ Core Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![badge](https://shieldcn.dev/badge/Python.svg?variant=secondary&theme=zinc&logo=python&logoColor=3776AB)
+![badge](https://shieldcn.dev/badge/Spark.svg?variant=secondary&theme=zinc&logo=apachespark&logoColor=E25A1C)
+![badge](https://shieldcn.dev/badge/SQL.svg?variant=secondary&theme=zinc&logo=ri%3AFaDatabase&logoColor=4479A1)
+![badge](https://shieldcn.dev/badge/Databricks.svg?variant=secondary&theme=zinc&logo=databricks&logoColor=FF3621)
+![badge](https://shieldcn.dev/badge/Delta%20Lake.svg?variant=secondary&theme=zinc&logo=ri%3ATbFileDelta&logoColor=3776AB)
+![badge](https://shieldcn.dev/badge/Docker.svg?variant=secondary&theme=zinc&logo=docker&logoColor=2a78f7&padX=8&gap=6&labelGap=0)
+![badge](https://shieldcn.dev/badge/Azure.svg?variant=secondary&theme=zinc&logo=ri%3ATbBrandAzure&logoColor=0078D4)
+![badge](https://shieldcn.dev/badge/Git.svg?variant=secondary&theme=zinc&logo=git&logoColor=F05032)
 
-### 📫 Connect
+### 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/george-gabriel-silva)
+[![badge](https://shieldcn.dev/badge/LinkedIn-@George%20Gabriel.svg?variant=secondary&split=true&logo=ri%3AFaLinkedin&logoColor=3c7fee&padX=8&gap=6&labelGap=0)](https://linkedin.com/in/george-gabriel-silva)
